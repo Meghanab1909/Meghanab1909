@@ -1,4 +1,4 @@
-<div style= "text-align: center">
+<div style= "display: flex; justify-content: center">
 <img style = "height: 300px; width: 500px" src = "https://github.com/Meghanab1909/Meghanab1909/blob/main/github.gif"/>
 </div>
 
