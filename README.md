@@ -1,7 +1,9 @@
-<div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img style="height: 300px; width: 500px;" src="https://raw.githubusercontent.com/Meghanab1909/Meghanab1909/main/github.gif" />
-  <h1 align="right">Hi 👋, I'm Meghana Bisa</h1>
-  <h3 align="right">A CSE student from PESU. Passionate about tech and coding</h3>
+  <div>
+    <h1 align="right">Hi 👋, I'm Meghana Bisa</h1>
+    <h3 align="right">A CSE student from PESU. Passionate about tech and coding</h3>
+  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
