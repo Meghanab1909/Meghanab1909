@@ -1,4 +1,4 @@
-<img style = "width: 500px; height: 300px" src = "https://github.com/Meghanab1909/Meghanab1909/blob/main/github.gif"/>
+<img style = "width: 500px; height: 300px; position: center" src = "https://github.com/Meghanab1909/Meghanab1909/blob/main/github.gif"/>
 <h1 align="center">Hi 👋, I'm Meghana Bisa</h1>
 <h3 align="center">A CSE student from PESU. Passionate about tech and coding</h3>
 
