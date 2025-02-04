@@ -2,8 +2,8 @@
   <tr>
     <td><img style="height: 340px; width: 525px;" src="https://raw.githubusercontent.com/Meghanab1909/Meghanab1909/main/github.gif" /></td>
     <td>
-      <h1 align="right">Hi 👋, I'm Meghana Bisa</h1>
-      <h3 align="right">A CSE student from PESU. Passionate about tech and coding</h3>
+      <h1 align="center">Hi 👋, I'm Meghana Bisa</h1>
+      <h3 align="center">A CSE student from PESU. Passionate about tech and coding</h3>
   <h3 align="left">Connect with me: </h3>
 <p align="left">
    - 📫 How to reach me <b>imeghana2005@gmail.com</b>
