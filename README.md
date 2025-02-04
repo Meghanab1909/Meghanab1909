@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: left; align-items: left; height: 100vh;">
   <img style="height: 300px; width: 500px;" src="https://raw.githubusercontent.com/Meghanab1909/Meghanab1909/main/github.gif" />
 </div>
 
