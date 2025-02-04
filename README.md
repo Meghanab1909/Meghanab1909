@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meghana Bisa</h1>
 <h3 align="center">A CSE student from PESU. Passionate about tech and coding</h3>
 
-- 📫 How to reach me **imeghana2005@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **imeghana2005@gmail.com**
 <p align="left">
 </p>
 
