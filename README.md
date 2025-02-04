@@ -1,9 +1,8 @@
-<div style="display: flex; justify-content: left; align-items: left; height: 100vh;">
+<div>
   <img style="height: 300px; width: 500px;" src="https://raw.githubusercontent.com/Meghanab1909/Meghanab1909/main/github.gif" />
+  <h1 align="right">Hi 👋, I'm Meghana Bisa</h1>
+  <h3 align="right">A CSE student from PESU. Passionate about tech and coding</h3>
 </div>
-
-<h1 align="center">Hi 👋, I'm Meghana Bisa</h1>
-<h3 align="center">A CSE student from PESU. Passionate about tech and coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **imeghana2005@gmail.com**
