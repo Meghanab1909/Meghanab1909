@@ -8,7 +8,7 @@
 <p align="left">
   <ul>
     <li>📫 Email: imeghana2005@gmail.com  </li>
-    <li>🌍 Portfolio: <a href = "https://meghanab1909.github.io/" target="_blank" rel="noopener noreferrer">https://meghanab1909.github.io/</a></li>
+    <li>🌍 Portfolio: <a href = "https://meghanab1909.github.io/">https://meghanab1909.github.io/</a></li>
   </ul>
 </p>
       <h3 align="left">Languages and Tools:</h3>
