@@ -9,6 +9,7 @@
   <ul>
     <li>📫 Email: imeghana2005@gmail.com  </li>
     <li>🌍 Portfolio: <a href = "https://meghanab1909.github.io/">https://meghanab1909.github.io/</a></li>
+    <li>🔵 LinkedIn: <a href = "https://www.linkedin.com/in/meghana-bisa/">https://meghanab1909.github.io/</a></li>
   </ul>
 </p>
       <h3 align="left">Languages and Tools:</h3>
