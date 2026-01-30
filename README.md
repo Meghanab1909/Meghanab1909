@@ -8,7 +8,7 @@
 <p align="left">
   <ul>
     <li>📫 Email: imeghana2005@gmail.com  </li>
-    <li>🌍 Portfolio: <a href = "https://meghanab1909.github.io/">https://meghanab1909.github.io/</a></li>
+    <li>🌍 Portfolio: <a href = "https://meghanab1909.github.io/Portfolio/">https://meghanab1909.github.io/Portfolio/</a></li>
     <li>🔵 LinkedIn: <a href = "https://www.linkedin.com/in/meghana-bisa/">https://www.linkedin.com/in/meghana-bisa/</a></li>
   </ul>
 </p>
